@@ -45,22 +45,3 @@ python3.10 main.py -s /sourcecode -o /sourcecode/output.json -k OPEN_AI_API_KEY_
 3. Top200: [https://github.com/MetaTrustLabs/GPTScan-Top200](https://github.com/MetaTrustLabs/GPTScan-Top200)
 
 
-## 如何引用这个项目
-
-```bibtex
-@inproceedings{sun2024gptscan,
-    author = {Sun, Yuqiang and Wu, Daoyuan and Xue, Yue and Liu, Han and Wang, Haijun and Xu, Zhengzi and Xie, Xiaofei and Liu, Yang},
-    title = {{GPTScan}: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis},
-    year = {2024},
-    isbn = {9798400702174},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3597503.3639117},
-    doi = {10.1145/3597503.3639117},
-    booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
-    articleno = {166},
-    numpages = {13},
-    series = {ICSE '24}
-}
-```
-
